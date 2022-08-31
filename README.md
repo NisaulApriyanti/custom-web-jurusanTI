@@ -1,7 +1,11 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8172765&assignment_repo_type=AssignmentRepo)
+
 #Nama   :Nisaul Apriyanti
+
 #NIM    :362055401133
+
 #Kelas  :2E
+
 https://user-images.githubusercontent.com/100395850/187717098-a209fc53-69f8-4d10-84bb-a93d6835777e.mp4
 ![2](https://user-images.githubusercontent.com/100395850/187717623-1ca8b62a-8608-48b3-8bf9-03e0577c3d59.PNG)
 ![3](https://user-images.githubusercontent.com/100395850/187717637-1a7a9f3c-e34a-4619-bd37-c5ba52003d34.PNG)
